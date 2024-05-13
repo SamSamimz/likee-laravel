@@ -1,0 +1,1 @@
+<button type="submit" class="btn btn-{{$color}} col-12">Submit</button>
